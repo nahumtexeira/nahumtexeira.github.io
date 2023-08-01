@@ -1,0 +1,51 @@
+body {
+    background-color: #212A3E;
+    font-family: monospace;
+    color: #9BA4B5;
+    font-size: 25px;
+}
+
+div.principio{
+  color: rgb(36, 201, 36);
+}
+
+div.presentación {
+  display: flex;
+}
+
+#fotoPerfil {
+    width: 150px;
+    border-radius: 6px;
+    box-shadow: 7px 7px 15px black;
+    margin-bottom: 15px;
+    margin-right: 50px;
+}
+
+#parrafosCol {
+  color: yellow;
+}
+
+.tabla {
+  color: orange
+}
+
+.divisiones { 
+  color: red
+}
+
+.formación {
+  color: rgb(224, 12, 171)
+}
+
+.tablita {
+  color: rgb(151, 146, 146)
+}
+
+.final {
+  color: rgb(30, 142, 247)
+}
+
+div p {
+  color: rgb(255, 255, 255)
+}
+
